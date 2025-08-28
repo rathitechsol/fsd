@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    border: 2px solid black;
+    
+}
+.child1{
+    border: 2px dotted black;
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+
+}
+.child2{
+    border: 2px dotted black;
+     height: 300px;
+    width: 300px;
+     background-color: aquamarine;
+    
+}
+.child3{
+    border: 2px dotted black;
+     height: 300px;
+    width: 300px;
+     background-color: green;
+    
+}
+.child4{border: 2px dotted black;
+     height: 300px;
+    width: 300px;
+     background-color: yellow;
+}
